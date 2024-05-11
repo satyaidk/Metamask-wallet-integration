@@ -154,3 +154,11 @@ That’s all folks, we are ready to check. By now your code looks something like
     npm start
 
 Everything should run smoothly. Congrats for building this mini project and following through the instructions. :)
+
+# Images:
+
+![Screenshot 2024-05-10 132925](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/e12f84a7-b934-43bf-933d-17c960469384)
+
+![Screenshot 2024-05-10 132932](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/6c0a2260-9116-4398-bd20-e209c7330f82)
+
+
