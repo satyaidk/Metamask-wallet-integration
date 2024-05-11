@@ -1,4 +1,4 @@
-# Building App
+# Building DApp
 
 First we will create a basic react application, and then we will add a connect to metamask button. The application will also check if MetaMask extension is installed or not. If it is not installed, the application will display a message to download the extension.
 
