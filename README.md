@@ -6,7 +6,14 @@ Once the account is connected, we will display the connected account address.
 
 Let’s get to coding first. Fire your terminal and add the following instructions:
 
-- mkdir helloreact
-- cd helloreact
-- npx create-react-app my-app
+    mkdir helloreact
+    cd helloreact
+    npx create-react-app my-app
+
+This will first create a helloreact folder and then my-app, a basic react application for you. Go ahead and write the following command.
+
+    cd my-app
+    npm start
+
+This will start your server and automatically open a window for you, where you can see the default react app.
 
