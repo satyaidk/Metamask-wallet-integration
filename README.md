@@ -1,5 +1,7 @@
 # Building DApp
 
+![Screenshot 2024-05-10 132925](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/e12f84a7-b934-43bf-933d-17c960469384)
+
 First we will create a basic react application, and then we will add a connect to metamask button. The application will also check if MetaMask extension is installed or not. If it is not installed, the application will display a message to download the extension.
 
 Once the account is connected, we will display the connected account address.
@@ -155,9 +157,7 @@ That’s all folks, we are ready to check. By now your code looks something like
 
 Everything should run smoothly. Congrats for building this mini project and following through the instructions. :)
 
-# Images:
-
-![Screenshot 2024-05-10 132925](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/e12f84a7-b934-43bf-933d-17c960469384)
+# Images of connected wallet Address:
 
 ![Screenshot 2024-05-10 132932](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/6c0a2260-9116-4398-bd20-e209c7330f82)
 
