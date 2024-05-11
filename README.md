@@ -157,7 +157,7 @@ That’s all folks, we are ready to check. By now your code looks something like
 
 Everything should run smoothly. Congrats for building this mini project and following through the instructions. :)
 
-# Images of connected wallet Address:
+# Image of connected wallet Address:
 
 ![Screenshot 2024-05-10 132932](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/6c0a2260-9116-4398-bd20-e209c7330f82)
 
