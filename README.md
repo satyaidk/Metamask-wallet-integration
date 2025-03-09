@@ -1,4 +1,4 @@
-# Building DApp
+# Building dapp
 
 ![Screenshot 2024-05-10 132925](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/e12f84a7-b934-43bf-933d-17c960469384)
 
