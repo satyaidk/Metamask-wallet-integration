@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-05-10 132925](https://github.com/satyaidk/Metamask-wallet-integration/assets/98378624/e12f84a7-b934-43bf-933d-17c960469384)
 
-First we will create a basic react application, and then we will add a connect to metamask button. The application will also check if MetaMask extension is installed or not. If it is not installed, the application will display a message to download the extension.
+First we will create a basic react application, and then we will add a connect to Metamask button. The application will also check if MetaMask extension is installed or not. If it is not installed, the application will display a message to download the extension.
 
 Once the account is connected, we will display the connected account address.
 
